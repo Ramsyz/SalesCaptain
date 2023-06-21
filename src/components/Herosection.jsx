@@ -28,7 +28,7 @@ const Herosection = () => {
           </div>
         </div>
       </div>
-      <div className="w-full">
+      <div className="w-full mx-auto">
         <img src={Hero1} alt="/" />
       </div>
     </div>
